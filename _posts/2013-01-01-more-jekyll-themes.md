@@ -1,4 +1,8 @@
 ---
+
+layout: post
+title: "Using github pages"
+
 layout: post
 title: "More Jekyll Themes!"
 ---
